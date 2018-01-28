@@ -34,17 +34,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		CEDE1745201E85690020DD40 /* Oject Recoginition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Oject Recoginition.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEDE1745201E85690020DD40 /* Object-Recoginition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Object-Recoginition.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEDE1748201E85690020DD40 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEDE174A201E85690020DD40 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CEDE174D201E85690020DD40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CEDE174F201E85690020DD40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEDE1752201E85690020DD40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEDE1754201E85690020DD40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CEDE1759201E85690020DD40 /* Oject RecoginitionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Oject RecoginitionTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEDE1759201E85690020DD40 /* Object-RecoginitionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Object-RecoginitionTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEDE175D201E856A0020DD40 /* Oject_RecoginitionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Oject_RecoginitionTests.swift; sourceTree = "<group>"; };
 		CEDE175F201E856A0020DD40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CEDE1764201E856A0020DD40 /* Oject RecoginitionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Oject RecoginitionUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEDE1764201E856A0020DD40 /* Object-RecoginitionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Object-RecoginitionUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEDE1768201E856A0020DD40 /* Oject_RecoginitionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Oject_RecoginitionUITests.swift; sourceTree = "<group>"; };
 		CEDE176A201E856A0020DD40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -87,9 +87,9 @@
 		CEDE1746201E85690020DD40 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CEDE1745201E85690020DD40 /* Oject Recoginition.app */,
-				CEDE1759201E85690020DD40 /* Oject RecoginitionTests.xctest */,
-				CEDE1764201E856A0020DD40 /* Oject RecoginitionUITests.xctest */,
+				CEDE1745201E85690020DD40 /* Object-Recoginition.app */,
+				CEDE1759201E85690020DD40 /* Object-RecoginitionTests.xctest */,
+				CEDE1764201E856A0020DD40 /* Object-RecoginitionUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -128,9 +128,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CEDE1744201E85690020DD40 /* Oject Recoginition */ = {
+		CEDE1744201E85690020DD40 /* Object-Recoginition */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CEDE176D201E856A0020DD40 /* Build configuration list for PBXNativeTarget "Oject Recoginition" */;
+			buildConfigurationList = CEDE176D201E856A0020DD40 /* Build configuration list for PBXNativeTarget "Object-Recoginition" */;
 			buildPhases = (
 				CEDE1741201E85690020DD40 /* Sources */,
 				CEDE1742201E85690020DD40 /* Frameworks */,
@@ -140,14 +140,14 @@
 			);
 			dependencies = (
 			);
-			name = "Oject Recoginition";
+			name = "Object-Recoginition";
 			productName = "Oject Recoginition";
-			productReference = CEDE1745201E85690020DD40 /* Oject Recoginition.app */;
+			productReference = CEDE1745201E85690020DD40 /* Object-Recoginition.app */;
 			productType = "com.apple.product-type.application";
 		};
-		CEDE1758201E85690020DD40 /* Oject RecoginitionTests */ = {
+		CEDE1758201E85690020DD40 /* Object-RecoginitionTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CEDE1770201E856A0020DD40 /* Build configuration list for PBXNativeTarget "Oject RecoginitionTests" */;
+			buildConfigurationList = CEDE1770201E856A0020DD40 /* Build configuration list for PBXNativeTarget "Object-RecoginitionTests" */;
 			buildPhases = (
 				CEDE1755201E85690020DD40 /* Sources */,
 				CEDE1756201E85690020DD40 /* Frameworks */,
@@ -158,14 +158,14 @@
 			dependencies = (
 				CEDE175B201E856A0020DD40 /* PBXTargetDependency */,
 			);
-			name = "Oject RecoginitionTests";
+			name = "Object-RecoginitionTests";
 			productName = "Oject RecoginitionTests";
-			productReference = CEDE1759201E85690020DD40 /* Oject RecoginitionTests.xctest */;
+			productReference = CEDE1759201E85690020DD40 /* Object-RecoginitionTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		CEDE1763201E856A0020DD40 /* Oject RecoginitionUITests */ = {
+		CEDE1763201E856A0020DD40 /* Object-RecoginitionUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CEDE1773201E856A0020DD40 /* Build configuration list for PBXNativeTarget "Oject RecoginitionUITests" */;
+			buildConfigurationList = CEDE1773201E856A0020DD40 /* Build configuration list for PBXNativeTarget "Object-RecoginitionUITests" */;
 			buildPhases = (
 				CEDE1760201E856A0020DD40 /* Sources */,
 				CEDE1761201E856A0020DD40 /* Frameworks */,
@@ -176,9 +176,9 @@
 			dependencies = (
 				CEDE1766201E856A0020DD40 /* PBXTargetDependency */,
 			);
-			name = "Oject RecoginitionUITests";
+			name = "Object-RecoginitionUITests";
 			productName = "Oject RecoginitionUITests";
-			productReference = CEDE1764201E856A0020DD40 /* Oject RecoginitionUITests.xctest */;
+			productReference = CEDE1764201E856A0020DD40 /* Object-RecoginitionUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -207,7 +207,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CEDE1740201E85690020DD40 /* Build configuration list for PBXProject "Oject Recoginition" */;
+			buildConfigurationList = CEDE1740201E85690020DD40 /* Build configuration list for PBXProject "Object-Recoginition" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -220,9 +220,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CEDE1744201E85690020DD40 /* Oject Recoginition */,
-				CEDE1758201E85690020DD40 /* Oject RecoginitionTests */,
-				CEDE1763201E856A0020DD40 /* Oject RecoginitionUITests */,
+				CEDE1744201E85690020DD40 /* Object-Recoginition */,
+				CEDE1758201E85690020DD40 /* Object-RecoginitionTests */,
+				CEDE1763201E856A0020DD40 /* Object-RecoginitionUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -285,12 +285,12 @@
 /* Begin PBXTargetDependency section */
 		CEDE175B201E856A0020DD40 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = CEDE1744201E85690020DD40 /* Oject Recoginition */;
+			target = CEDE1744201E85690020DD40 /* Object-Recoginition */;
 			targetProxy = CEDE175A201E856A0020DD40 /* PBXContainerItemProxy */;
 		};
 		CEDE1766201E856A0020DD40 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = CEDE1744201E85690020DD40 /* Oject Recoginition */;
+			target = CEDE1744201E85690020DD40 /* Object-Recoginition */;
 			targetProxy = CEDE1765201E856A0020DD40 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -465,7 +465,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Oject Recoginition.app/Oject Recoginition";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Object-Recoginition.app/Object-Recoginition";
 			};
 			name = Debug;
 		};
@@ -482,7 +482,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Oject Recoginition.app/Oject Recoginition";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Object-Recoginition.app/Object-Recoginition";
 			};
 			name = Release;
 		};
@@ -521,7 +521,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CEDE1740201E85690020DD40 /* Build configuration list for PBXProject "Oject Recoginition" */ = {
+		CEDE1740201E85690020DD40 /* Build configuration list for PBXProject "Object-Recoginition" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CEDE176B201E856A0020DD40 /* Debug */,
@@ -530,7 +530,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CEDE176D201E856A0020DD40 /* Build configuration list for PBXNativeTarget "Oject Recoginition" */ = {
+		CEDE176D201E856A0020DD40 /* Build configuration list for PBXNativeTarget "Object-Recoginition" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CEDE176E201E856A0020DD40 /* Debug */,
@@ -539,7 +539,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CEDE1770201E856A0020DD40 /* Build configuration list for PBXNativeTarget "Oject RecoginitionTests" */ = {
+		CEDE1770201E856A0020DD40 /* Build configuration list for PBXNativeTarget "Object-RecoginitionTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CEDE1771201E856A0020DD40 /* Debug */,
@@ -548,7 +548,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CEDE1773201E856A0020DD40 /* Build configuration list for PBXNativeTarget "Oject RecoginitionUITests" */ = {
+		CEDE1773201E856A0020DD40 /* Build configuration list for PBXNativeTarget "Object-RecoginitionUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CEDE1774201E856A0020DD40 /* Debug */,
