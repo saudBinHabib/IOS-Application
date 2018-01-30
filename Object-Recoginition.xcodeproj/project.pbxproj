@@ -14,6 +14,7 @@
 		CEDE1753201E85690020DD40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEDE1751201E85690020DD40 /* LaunchScreen.storyboard */; };
 		CEDE175E201E856A0020DD40 /* Oject_RecoginitionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE175D201E856A0020DD40 /* Oject_RecoginitionTests.swift */; };
 		CEDE1769201E856A0020DD40 /* Oject_RecoginitionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1768201E856A0020DD40 /* Oject_RecoginitionUITests.swift */; };
+		CEDE1777201E999C0020DD40 /* VGG16.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = CEDE1776201E999C0020DD40 /* VGG16.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CEDE1764201E856A0020DD40 /* Object-RecoginitionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Object-RecoginitionUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEDE1768201E856A0020DD40 /* Oject_RecoginitionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Oject_RecoginitionUITests.swift; sourceTree = "<group>"; };
 		CEDE176A201E856A0020DD40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEDE1776201E999C0020DD40 /* VGG16.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = VGG16.mlmodel; path = ../../../Downloads/VGG16.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		CEDE1747201E85690020DD40 /* Oject Recoginition */ = {
 			isa = PBXGroup;
 			children = (
+				CEDE1776201E999C0020DD40 /* VGG16.mlmodel */,
 				CEDE1748201E85690020DD40 /* AppDelegate.swift */,
 				CEDE174A201E85690020DD40 /* ViewController.swift */,
 				CEDE174C201E85690020DD40 /* Main.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				CEDE174B201E85690020DD40 /* ViewController.swift in Sources */,
 				CEDE1749201E85690020DD40 /* AppDelegate.swift in Sources */,
+				CEDE1777201E999C0020DD40 /* VGG16.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
